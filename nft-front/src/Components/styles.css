@@ -1,0 +1,39 @@
+.nft-container {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+    gap: 20px;
+  }
+  
+  .nft-card {
+    width: 400px;
+    height: 300px;
+  }
+  
+  .nft-card-body {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    height: 100%;
+  }
+  
+  .nft-title {
+    font-size: 24px;
+    font-weight: bold;
+    text-align: center;
+    margin-bottom: 20px;
+  }
+  
+  .nft-text {
+    font-size: 16px;
+    text-align: center;
+    margin-bottom: 20px;
+  }
+  
+  .nft-input-group {
+    margin-bottom: 20px;
+    text-align: center;
+    width: 100%;
+  }
+  
